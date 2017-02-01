@@ -1,0 +1,6 @@
+pip
+numpy
+jupyter
+scipy
+
+
